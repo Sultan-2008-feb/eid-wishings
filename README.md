@@ -1,1 +1,1 @@
-# eid-wishings
+# Eid-wishings
